@@ -1,4 +1,4 @@
-package com.nit.serviceImpl;
+package com.nit.utility;
 
 public class Constants {
 	
